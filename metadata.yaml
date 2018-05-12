@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31486'
     url: http://www.gutenberg.org/2009/agents/31486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25652#A-Treasury-of-Heroes-and-HeroinesA-Record-of-High-Endeavour-and-Strange-Adventure-from-500-B._
 gutenberg_issued: '2008-05-30'
 gutenberg_type: Text
 identifiers:
